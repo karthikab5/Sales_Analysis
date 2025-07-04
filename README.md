@@ -109,7 +109,18 @@ The layout follows a clean, user-friendly design with clear headings, minimal co
    Execute the script in `sales_analysis_query.sql` on your MySQL server. It will create the necessary tables and populate the unified reporting table (`sales_table`).
 
 2. **Open Power BI Report**  
-   Open `Sales_Analysis_Dashboard.pbix` in Power BI Desktop.
+   ## Power BI Dashboard
+
+The Power BI report includes:
+- Key metrics: total sales, profit, average order value, etc.
+- Interactive filters for region, customer segment, and category
+- Visualizations including bar charts, donut charts, and trend lines
+
+You can view the dashboard layout in the image below and download the `.pbix` file to explore it interactively in Power BI Desktop.
+
+![Sales Dashboard Preview](dashboard_preview.png)
+
+[Download the Power BI Report](./Sales_Analysis_Dashboard.pbix)
 
 3. **Connect Data Source**  
    Update the data source connection settings in Power BI to point to your local or hosted MySQL database. Use the appropriate credentials.
@@ -122,7 +133,6 @@ The layout follows a clean, user-friendly design with clear headings, minimal co
 ## Author
 
 **Karthika Karthika**  
-Mississauga, Ontario, Canada  
 Email: karthikab214@gmail.com  
 
 ---
