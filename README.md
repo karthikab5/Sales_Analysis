@@ -118,7 +118,7 @@ The Power BI report includes:
 
 You can view the dashboard layout in the image below and download the `.pbix` file to explore it interactively in Power BI Desktop.
 
-![Sales Dashboard Preview](dashboard_preview.png)
+![Sales Dashboard Preview](image.png)
 
 [Download the Power BI Report](./Sales_Analysis_Dashboard.pbix)
 
